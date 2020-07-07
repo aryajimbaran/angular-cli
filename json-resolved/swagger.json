@@ -9,10 +9,13 @@
     "version" : "1.0.0"
   },
   "servers" : [ {
+    "url" : "https://virtserver.swaggerhub.com/j7698/API-GenerateOTP/1.0.0",
+    "description" : "SwaggerHub API Auto Mocking"
+  }, {
     "url" : "https://virtserver.swaggerhub.com/j7698/petx/1.0.0",
     "description" : "SwaggerHub API Auto Mocking"
   }, {
-    "url" : "https://10.2.114.46:443"
+    "url" : "https://localhost:8080"
   } ],
   "paths" : {
     "/api/generate" : {
